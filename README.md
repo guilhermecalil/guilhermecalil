@@ -3,3 +3,6 @@
 - Contato: 
     .E-mail: guilhermecalil5@gmail.com
     .Linkedin: https://www.linkedin.com/in/guilherme-marang%C3%A3o-calil-a86460244/
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
