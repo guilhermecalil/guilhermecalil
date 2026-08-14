@@ -34,6 +34,10 @@ Kubernetes in depth — not just `kubectl apply`, but probes, resource limits, r
 
 <div align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermecalil&bg_color=0D1117&color=8B949E&line=38BDF8&point=FFFFFF&area=true&area_color=38BDF8&hide_border=true&radius=8&height=280" width="98%" alt="" />
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/guilhermecalil/guilhermecalil/output/snake-dark.svg" width="98%" alt="" />
 
 <br/><br/>
@@ -43,7 +47,7 @@ Kubernetes in depth — not just `kubectl apply`, but probes, resource limits, r
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/guilherme-marang%C3%A3o-calil-a86460244"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B949E&labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/guilhermecalil"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=8B949E&labelColor=0D1117" alt="LinkedIn" /></a>
 &nbsp;
 <a href="https://www.instagram.com/guilhermemarangao/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=8B949E&labelColor=0D1117" alt="Instagram" /></a>
 
